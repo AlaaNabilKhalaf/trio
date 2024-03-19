@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "273773875176",
+    "project_id": "trio-6875d",
+    "storage_bucket": "trio-6875d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273773875176:android:d37f2875698e06c3e49e5d",
+        "android_client_info": {
+          "package_name": "com.trio_dj.trio_dj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273773875176-6nj9f1e728vipi1l2e4mjmq7c58rfmhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trio_dj.trio_dj",
+            "certificate_hash": "68591c323397029714a521fa2893d2df3d62ebe0"
+          }
+        },
+        {
+          "client_id": "273773875176-c395mq57tjdqns1mfdg0pdtv1mvsrgbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trio_dj.trio_dj",
+            "certificate_hash": "258cb5272f008472a6c2e88aaf27271f5506a1ed"
+          }
+        },
+        {
+          "client_id": "273773875176-98k2c3vkmijvum6u57b66uqk2r2ih1et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqkec_Z00co8e_ky8n2552VK5GNbpbhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273773875176-98k2c3vkmijvum6u57b66uqk2r2ih1et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273773875176-h52e7atsvju173uludg98vst2uq64235.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.triodj.trioDj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
